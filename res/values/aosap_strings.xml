@@ -16,4 +16,8 @@
     <string name="aosap_settings_title">Andromeda Settings</string>
     <string name="aosap_settings_summary">Explore Our Galaxy!</string>
 
+    <!-- Battery stats reset -->
+    <string name="battery_stats_reset">Reset stats?</string>
+    <string name="battery_stats_message">Battery history stats will be reset!</string>
+
 </resources>
