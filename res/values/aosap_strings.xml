@@ -40,4 +40,6 @@
     <string name="accent_picker_custom_colors">User requested</string>
     <string name="qs_styles_dialog_title">Select a QS tile style</string>
 
+    <string name="background_processes_settings_title">Background processes</string>
+
 </resources>
