@@ -21,4 +21,8 @@
     <string name="aosap_settings_title">Andromeda</string>
     <string name="aosap_settings_summary">Welcome to another Universe!</string>
 
+    <!-- AOSAP version -->
+    <string name="aosap_version">AOSAP Build</string>
+    <string name="aosap_version_default">Unknown</string>
+
 </resources>
