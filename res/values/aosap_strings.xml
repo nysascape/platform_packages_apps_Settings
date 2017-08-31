@@ -17,4 +17,8 @@
     <string name="battery_stats_message">Battery history stats are going to be reset</string>
     <string name="ok_string">Ok</string>
 
+    <!-- Andromeda Settings -->
+    <string name="aosap_settings_title">Andromeda</string>
+    <string name="aosap_settings_summary">Welcome to another Universe!</string>
+
 </resources>
