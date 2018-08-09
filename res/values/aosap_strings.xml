@@ -13,6 +13,10 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
+    <!-- Andromeda version -->
+    <string name="andromeda_rom_version">Andromeda version</string>
+    <string name="andromeda_rom_version_default">Unknown</string>
+
     <!-- Andromeda settings -->
     <string name="aosap_settings_title">Andromeda settings</string>
     <string name="aosap_settings_summary">Explore our galaxy!</string>
