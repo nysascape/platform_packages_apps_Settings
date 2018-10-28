@@ -25,4 +25,9 @@
     <string name="aosap_version">AOSAP Build</string>
     <string name="aosap_version_default">Unknown</string>
 
+    <!-- System theme -->
+    <string name="system_theme_wallpaper">Automatic (based on time of day)</string>
+    <string name="system_theme_light">Light</string>
+    <string name="system_theme_dark">Dark</string>
+
 </resources>
