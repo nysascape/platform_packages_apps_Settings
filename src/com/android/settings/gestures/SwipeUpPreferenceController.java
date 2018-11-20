@@ -42,7 +42,7 @@ public class SwipeUpPreferenceController extends GesturePreferenceController {
     }
 
     static boolean isGestureAvailable(Context context) {
-        if (!context.getResources().getBoolean(R.bool.config_swipe_up_gesture_setting_available)) {
+        if (!context.getResources().getBoolean(R.bool.config_custom_swipe_up_gesture_setting_available)) {
             return false;
         }
 
