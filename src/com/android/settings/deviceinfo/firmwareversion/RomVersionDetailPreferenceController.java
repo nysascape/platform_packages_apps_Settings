@@ -19,11 +19,9 @@ package com.android.settings.deviceinfo.firmwareversion;
 import android.content.Context;
 import android.content.Intent;
 import android.content.pm.PackageManager;
-import android.net.Uri;
 import android.os.SystemProperties;
 import android.text.TextUtils;
 import android.util.Log;
-import android.view.View;
 
 import androidx.preference.Preference;
 
@@ -33,7 +31,7 @@ import com.android.settings.core.BasePreferenceController;
 public class RomVersionDetailPreferenceController extends BasePreferenceController {
 
     private static final String TAG = "romDialogCtrl";
-    private static final String ROM_PROPERTY = "org.andromeda.version";
+    private static final String ROM_PROPERTY = "ro.aosap.version";
     private final PackageManager mPackageManager = this.mContext.getPackageManager();
 
     public RomVersionDetailPreferenceController(Context context, String preferenceKey) {
